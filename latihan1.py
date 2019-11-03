@@ -7,4 +7,4 @@ step = 1
 for i in range(start, stop, step):
     from random import random
     a = random()
-    print("Perulangan ke:",i,"=>",(a))
+    print("Perulangan ke:",i,"=>",(a)) 
