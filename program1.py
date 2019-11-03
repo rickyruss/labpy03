@@ -16,4 +16,4 @@ for i in range(1,9,1):
   laba = modal*2/100
   untung = untung + laba
  print("Laba Bulan Ke- ",i," Sebesar ",laba)
-print("Total Laba adalah: ",untung)
+print("Total Laba adalah: ",untung) 
